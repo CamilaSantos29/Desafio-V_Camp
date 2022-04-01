@@ -50,7 +50,7 @@
 
 12 -Caso preenchimento no campo “repetir senha” não estiver igual ao campo “senha”, alertar que é necessário que ambos sejam iguais;
 
-14-  Fechar navegador
+14-  Fechar navegador.
 
 ## 📋 Resultados Esperados
 1-	Sistema abre a página home indicada;

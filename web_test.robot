@@ -4,7 +4,7 @@ Test Setup    abrir navegador
 Test Teardown   fechar navegador
 
 
-***Test Cases***
+***Test Cases**
 
 Scenario 1
  Given User is in Registration form page
